@@ -4,16 +4,38 @@
 
 RainStorm (formerly “Alphorge”) orchestrates a suite of focused apps — the **Rain‑suite** — to validate ideas, build product, price & ship safely, launch GTM, onboard customers, measure health, enforce trust, and support success.
 
+---
+
+## 🌱 How RainStorm Works (Simple Explanation)
+
+- **RainStorm is the conductor.** It moves products through each Rain‑app step, knows when to hand off, and makes sure rules and trust checks are applied.  
+- **Apps work in parallel.** One product can be in the “build” step while another is being marketed or onboarded.  
+- **The loop never stops.** After launch, data and feedback flow back into RainScout to decide the next best product to build.  
+
+### Step‑by‑Step in Plain Language
+1. **RainScout** tests a list of ideas with surveys, outreach, and signals. It ranks which ones have the most demand.  
+2. **RainVibe** turns the winning idea into working code with tests and a preview.  
+3. **RainShip** suggests safe pricing, writes the changelog, and manages releases.  
+4. **RainWave** creates on‑brand assets, copy, and a campaign calendar.  
+5. **RainDock** provisions accounts, issues keys, and guides users to first value.  
+6. **RainPulse** measures usage, health scores, churn, and expansion signals.  
+7. **RainBeacon** enforces policies, signs receipts, and reduces human checks over time.  
+8. **RainRef** drafts support answers and performs safe fixes (like resending onboarding).  
+
+Data from RainPulse and RainRef feed back into RainScout. That way, the **next idea** is chosen based on what worked, what sold best, and what problems or gaps remain in the market.
+
+---
+
 ## The Rain‑suite
 
-- **RainScout** — demand validation & discovery (signals, outreach, surveys, booked calls)
-- **RainVibe** — spec‑to‑repo code generation (patches, tests, previews)
-- **RainShip** — guardrailed pricing + reliable releases (changelog, canary, rollback, receipts)
-- **RainWave** — on‑brand assets, copy, campaign calendar & scheduling
-- **RainDock** — provisioning & onboarding (accounts, keys, checklists, activation receipts)
-- **RainPulse** — product telemetry, NPS, churn/expansion signals, playbooks
-- **RainBeacon** — policy receipts, risk scoring, trust ramp (reduce HITL safely)
-- **RainRef** — support & success referee (grounded answers + safe automated fixes)
+- **RainScout** — demand validation & discovery (signals, outreach, surveys, booked calls)  
+- **RainVibe** — spec‑to‑repo code generation (patches, tests, previews)  
+- **RainShip** — guardrailed pricing + reliable releases (changelog, canary, rollback, receipts)  
+- **RainWave** — on‑brand assets, copy, campaign calendar & scheduling  
+- **RainDock** — provisioning & onboarding (accounts, keys, checklists, activation receipts)  
+- **RainPulse** — product telemetry, NPS, churn/expansion signals, playbooks  
+- **RainBeacon** — policy receipts, risk scoring, trust ramp (reduce HITL safely)  
+- **RainRef** — support & success referee (grounded answers + safe automated fixes)  
 
 > RainStorm is the **conductor**: it runs the loop, applies policy gates, and persists state & traces across the apps.
 
