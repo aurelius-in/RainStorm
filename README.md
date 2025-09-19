@@ -6,7 +6,7 @@ RainStorm (formerly “Alphorge”) orchestrates a suite of focused apps — the
 
 ---
 
-## 🌱 How RainStorm Works (Simple Explanation)
+## 🌱 How RainStorm Works 
 
 - **RainStorm is the conductor.** It moves products through each Rain‑app step, knows when to hand off, and makes sure rules and trust checks are applied.  
 - **Apps work in parallel.** One product can be in the “build” step while another is being marketed or onboarded.  
