@@ -12,7 +12,7 @@ RainStorm (formerly “Alphorge”) orchestrates a suite of focused apps — the
 - **Apps work in parallel.** One product can be in the “build” step while another is being marketed or onboarded.  
 - **The loop never stops.** After launch, data and feedback flow back into RainScout to decide the next best product to build.  
 
-### Step‑by‑Step in Plain Language
+### The RainStorm Cycle
 1. **RainScout** tests a list of ideas with surveys, outreach, and signals. It ranks which ones have the most demand.  
 2. **RainVibe** turns the winning idea into working code with tests and a preview.  
 3. **RainShip** suggests safe pricing, writes the changelog, and manages releases.  
