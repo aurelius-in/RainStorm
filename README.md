@@ -1,4 +1,4 @@
-# RainStorm
+![Rainstorm](rainstorm.png)
 
 **Agentic venture factory** that goes from **demand signal → deployed software** with minimal human intervention.
 
