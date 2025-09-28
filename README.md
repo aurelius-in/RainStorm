@@ -49,7 +49,7 @@ Data from RainPulse and RainRef feed back into RainScout. That way, the **next i
   "flowchart": { "curve": "basis" },
   "themeVariables": { "fontFamily": "Inter, Arial" }
 }}%%
-flowchart LR
+flowchart TB
   classDef n fill:#eaf4ff,stroke-width:0,color:#000,font-weight:700;
 
   A([RainScout<br/>Discover & Validate]):::n --> 
