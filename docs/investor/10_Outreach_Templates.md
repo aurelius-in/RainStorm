@@ -1,4 +1,4 @@
-LinkedIn DM (≤ 300 chars)
+## LinkedIn DM (≤ 300 chars)
 —
 Launching **RainStorm** — an orchestrated AI suite that takes products from idea to growth and **keeps receipts** (signed evidence). Cursor‑friendly pricing ($99+). Running a 45‑day beta: card on Day 0, charge Day 46 if surveys complete. Open to 10–15 design partners. calendly.com/oliveraellison/15min
 
