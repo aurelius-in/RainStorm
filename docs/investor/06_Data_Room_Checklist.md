@@ -1,0 +1,28 @@
+# RainStorm — Angel/Seed Data Room Checklist
+
+- **Deck** — final PDF + 2–3 product clips
+- **One‑Pager** — this file
+- **Product**
+  - Orchestrator state machine diagram + receipts examples
+  - 2‑min clips: RainVibe spec→preview; RainShip canary+rollback; RainPulse health
+  - Connectors list and roadmap
+- **Market**
+  - ICP one‑pagers (suite buyers, single‑app buyers, agencies)
+  - TAM/SAM/SOM with assumptions
+  - Competitive matrix
+- **Traction**
+  - Beta cohort stats (signups, surveys completed, conversions Day 46)
+  - Case studies (before/after metrics)
+  - Pipeline (top 20, stage, next step)
+- **Financials**
+  - 24‑mo model (assumptions: pricing $99–$699 platform, $69–$199 apps)
+  - Bank + cash flows
+  - Use of funds & milestones
+- **Security/Compliance**
+  - SBOM example, policy decision receipts, incident process, SOC 2 plan
+- **Legal**
+  - DE C‑Corp docs, cap table, assignments, DPAs/subprocessors, insurance
+- **Team**
+  - Bios, hiring plan tied to milestones
+- **Terms**
+  - SAFE template + term summary
